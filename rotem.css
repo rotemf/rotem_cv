@@ -1,0 +1,12 @@
+body {
+font-size: 50px;
+font-family: "arial";
+color: gray; 
+background-color: pink; 
+    }
+
+h1 {
+    font-family: "arial";
+    font-size: 50px; 
+    font-weight: normal; 
+}
